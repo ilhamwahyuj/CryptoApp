@@ -66,7 +66,7 @@ lib/
 (instruksi singkat untuk build dan run project)
 
 - Clone repository ini
-  git clone https://github.com/username_anda/crypto-price-app.git
+  git clone [https://github.com/username_anda/crypto-price-app.git](https://github.com/ilhamwahyuj/CryptoApp.git)
 - Masuk ke direktori project
   cd crypto-price-app
 - Install dependencies
