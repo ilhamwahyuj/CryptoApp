@@ -51,9 +51,6 @@ lib/
 └── services/
 └── api_service.dart
 
-yaml
-Copy code
-
 ---
 
 ## 🔄 Alur Kerja Aplikasi
