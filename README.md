@@ -46,9 +46,9 @@ https://api.coinlore.net/api/tickers/
 
 ## 📂 Struktur Folder
 
-lib/
-├── main.dart
-└── services/
+lib/ </br>
+├── main.dart </br>
+└── services/ </br>
 └── api_service.dart
 
 ---
